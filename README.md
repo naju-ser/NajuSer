@@ -13,7 +13,7 @@ This is a Userbot based on WhatsAsena written by [Yusuf Usta](https://github.com
 
 ## Setup
 
-[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@najusercreator/najuser-QR)
+[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@NAJUSER/najuser-QR)
 
 [![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/naju-ser/NajuSer.git)
      </div>
